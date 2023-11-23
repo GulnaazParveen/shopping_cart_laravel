@@ -1,0 +1,1 @@
+<h1>home page</h1><?php /**PATH C:\Users\MD. MOKHTAR\Desktop\shoppingCart\shoppingcart\resources\views/welcome.blade.php ENDPATH**/ ?>
